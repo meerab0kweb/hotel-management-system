@@ -1,11 +1,12 @@
 # Hotel Management System
 
+## A Java GUI-based Application
 
-## Introduction: 
+This project was developed by a team of two students as part of an academic assignment. The goal was to **design and implement a GUI-based desktop application**.
+
 The ​Ho​tel Management System is a small application that allows hotel staff (e.g.: receptionists) and guests to interact with the system from a graphical interface (GUI) and each have access to a separate window since they have different access levels.  
 
  
-
 ### Staff Window Features: 
 
 -Login button to sign in as a client 
