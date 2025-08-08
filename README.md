@@ -2,7 +2,7 @@
 
 ## A Java GUI-based Application
 
-This project was developed by a team of two students as part of an academic assignment. The goal was to **design and implement a GUI-based desktop application**.
+This project was developed by a team of two students as part of an academic assignment. The goal was to **design and implement a GUI-based desktop application**, using IntelliJ and Scene Builder or Apache NetBeans.
 
 The ​Ho​tel Management System is a small application that allows hotel staff (e.g.: receptionists) and guests to interact with the system from a graphical interface (GUI) and each have access to a separate window since they have different access levels.  
 
